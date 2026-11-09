@@ -1,0 +1,6 @@
+Repository: a project folder whose full change history is tracked.
+Commit: a saved snapshot of your changes, with a message.
+Branch: a separate line of development, so you can work without affecting the main code.
+Merge: combining one branch’s changes into another.
+Version control: a system that records changes over time so you can review, compare, and revert them, and so several people can collaborate.
+Pull request: a request to merge your branch into another, usually reviewed first
